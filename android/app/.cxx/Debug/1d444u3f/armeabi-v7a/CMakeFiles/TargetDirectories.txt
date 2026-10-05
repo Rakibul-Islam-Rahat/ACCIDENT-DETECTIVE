@@ -1,0 +1,12 @@
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/CMakeFiles/appmodules.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/BlePlx_autolinked_build/CMakeFiles/react_codegen_BlePlx.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/BlePlx_autolinked_build/CMakeFiles/edit_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/BlePlx_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/Debug/1d444u3f/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir

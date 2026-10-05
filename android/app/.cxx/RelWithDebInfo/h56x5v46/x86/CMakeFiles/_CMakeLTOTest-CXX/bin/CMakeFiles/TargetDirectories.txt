@@ -1,0 +1,4 @@
+D:/App/MINI-DETECTIVE/android/app/.cxx/RelWithDebInfo/h56x5v46/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/RelWithDebInfo/h56x5v46/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/RelWithDebInfo/h56x5v46/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/App/MINI-DETECTIVE/android/app/.cxx/RelWithDebInfo/h56x5v46/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

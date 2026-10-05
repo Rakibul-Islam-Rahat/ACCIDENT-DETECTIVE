@@ -1,0 +1,6 @@
+D:\App\MINI-DETECTIVE\android\app\.cxx\RelWithDebInfo\h56x5v46\arm64-v8a\BlePlx_autolinked_build\CMakeFiles\react_codegen_BlePlx.dir\BlePlx-generated.cpp.o
+D:\App\MINI-DETECTIVE\android\app\.cxx\RelWithDebInfo\h56x5v46\arm64-v8a\BlePlx_autolinked_build\CMakeFiles\react_codegen_BlePlx.dir\react\renderer\components\BlePlx\ComponentDescriptors.cpp.o
+D:\App\MINI-DETECTIVE\android\app\.cxx\RelWithDebInfo\h56x5v46\arm64-v8a\BlePlx_autolinked_build\CMakeFiles\react_codegen_BlePlx.dir\react\renderer\components\BlePlx\EventEmitters.cpp.o
+D:\App\MINI-DETECTIVE\android\app\.cxx\RelWithDebInfo\h56x5v46\arm64-v8a\BlePlx_autolinked_build\CMakeFiles\react_codegen_BlePlx.dir\react\renderer\components\BlePlx\Props.cpp.o
+D:\App\MINI-DETECTIVE\android\app\.cxx\RelWithDebInfo\h56x5v46\arm64-v8a\BlePlx_autolinked_build\CMakeFiles\react_codegen_BlePlx.dir\react\renderer\components\BlePlx\ShadowNodes.cpp.o
+D:\App\MINI-DETECTIVE\android\app\.cxx\RelWithDebInfo\h56x5v46\arm64-v8a\BlePlx_autolinked_build\CMakeFiles\react_codegen_BlePlx.dir\react\renderer\components\BlePlx\States.cpp.o
